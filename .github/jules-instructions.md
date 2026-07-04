@@ -1,4 +1,6 @@
-# GitHub Copilot Instructions
+# Jules Instructions
+
+These instructions guide the Jules coding agent (`google-labs-code/jules-action`) when reviewing pull requests and resolving issues in this repository.
 
 ## Project Overview
 This repository is part of the ASCENIX / BMOPS / BEAUTIFUL-MINDS ecosystem — an enterprise-grade multi-platform workspace spanning iOS/macOS, Google Workspace, web services, and AI agent orchestration.
